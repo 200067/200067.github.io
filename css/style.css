@@ -340,4 +340,14 @@ a.btn:hover{
 	font-family: "Courier New", Monospace;
 }
 
+#lightsabers2{
+	color: #00FFFF;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#lightsabers3{
+	color: #9932CC;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
 /*----end footer content----*/
