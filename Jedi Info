@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Jedi Info</title>
+<meta name="description" content="A description of your website">
+<meta name="keywords" content="keyword1, keyword2, keyword3">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<div id="wrapper"> 
+
+  <div id="header"> 
+
+    <div class="top_banner">
+    <h3> A long long time ago in a galaxy far far away... </h3>
+      <h1>Kai's Star Wars Info Site</h1>
+      <p>"May the force be with you"</p>
+    </div>
+
+    <div class="navigation">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="moviesgames.html">Movies/Games</a></li>
+        <li><a href="jedi">Jedi Info</a></li>
+        <li><a href="#">Sith Info</a></li>
+        <li><a href="#">Bounty Hunter Info</a></li>
+        <li><a href="#">Droids/Clones</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div id="page_content"> 
+
+    <div class="left_side_bar"> 
+
+      <div class="col_1">
+        <h1></h1>
+        <div class="box">
+          
+        </div>
+      </div>
+
+      <div class="col_1">
+        
+        <div class="box">
+         
+          
+          
+        </div>
+      </div>
+
+    </div>
+
+    <div class="right_section">
+      <div class="common_content">
+        <h2>General Info About Star Wars</h2>
+        <hr>
+        <p>Star Wars took place a long long time ago in a galaxy far far away. It is the story of a war between the Republic (Jedi Knights) and the Imperial Forces (Siths). The Jedi Knights are unofficially known as the good guys, as they believe in justice and freedom. The Siths are unofficially known as the bad guys, as they fight for power, control, and the joy of killing. </p>
+        </div>
+      <div class="top_content">
+        <div class="column_one">
+          <h2>Weapons Used in Star Wars</h2>
+          <p>Star Wars is a science fiction franchise, so the weapons are obviously futuristic. Jedi Knights and Siths use lightsabers, which are swords with a laser blade. The lightsaber is the most powerful hand-held weapon in Star Wars, that only Jedi's and Siths know how to use. But, on the Republic side and the Imperial Forces side, there are armies of weaker soldiers. The Republic has an army of Clone Troopers. These men use blue laser blasters. The Imperial Forces have an army of droids (robots) that use red laser blasters. Lightsabers can deflect lasers launched from the blasters, which make them the most powerful and terrifying hand-held weapon in the series. </p>
+          <br>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dueling_lightsabers.svg/2000px-Dueling_lightsabers.svg.png" width=200>
+          <img src="http://i756.photobucket.com/albums/xx208/Xamikaze330/Star%20Wars/Star%20Wars%20Weapons/SWE11br.png" width=200>
+         </div>
+        <div class="column_two border_left">
+          <h2>What Are Lightsabers?</h2>
+          <p>In the movies, lightsabers are created with crystals found in the planet Ilum. These crystals are used to power the lightsabers. The energy from the crystal is shot through the lightsaber focusing energy channel, which creates the laser blade. This energy channel is opened with the push of a button, which activates the laser blade.</p>
+          <br>
+          <img src="http://img4.wikia.nocookie.net/__cb20131019044038/starwars/images/2/2f/IlumCrystal-SWE.png" width=200>
+          </div>
+      </div>
+    </div>
+
+    <div class="clear"></div>
+    
+    <!--start footer from here-->
+    <div id="footer">Copyright &copy; 2014. Design by <a href="http://www.onlinecasinos.im/" target="_blank">Online Casinos</a><br>
+    
+    <!--DO NOT remove footer link-->
+    <!--Template designed by--><a href="http://www.onlinecasinos.im/"><img src="images/footnote.gif" class="copyright" alt="www.onlinecasinos.im"></a></div>
+	
+    <!--/. end footer from here-->
+  </div>
+
+</div>
+
+</body></html>
