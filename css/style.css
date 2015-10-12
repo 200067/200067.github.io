@@ -338,6 +338,8 @@ a.btn:hover{
 #lightsabers{
 	color: #FF7F50;
 	font-family: "Courier New", Monospace;
+	.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
 }
 
 #lightsabers2{
